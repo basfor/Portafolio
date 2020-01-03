@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Bastian Flores.", "Diseñador.", "Freelancer.", "Fotografo"],
+      strings: ["Bastian Flores.", "Diseñador.", "Freelancer.", "Fotografo."],
       typeSpeed: 100,
       loop: true,
     });
